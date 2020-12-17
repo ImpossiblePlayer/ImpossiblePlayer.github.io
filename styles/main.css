@@ -20,7 +20,7 @@ a {
     text-decoration: none;
 }
 
-a hover {
+a:hover {
     color: #ffcb06;
 }
 
@@ -54,10 +54,6 @@ nav ul {
 
 .nav-li {
     margin-right: 35px;
-}
-
-.nav-li a:hover {
-    color: #ffcb06;
 }
 
 .mail-icon {
