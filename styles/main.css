@@ -306,8 +306,8 @@ footer {
 }
 
 .rights-logo {
-    padding: 20px 0px 20px 20px;
-    width: 180px;
+    display: flex;
+    align-items: center;
 }
 
 .rights {
