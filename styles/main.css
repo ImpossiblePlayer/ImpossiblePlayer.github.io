@@ -56,7 +56,7 @@ nav ul {
     margin-right: 35px;
 }
 
-.nav-li:hover {
+.nav-li a:hover {
     color: #ffcb06;
 }
 
