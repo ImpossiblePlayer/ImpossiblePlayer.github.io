@@ -56,6 +56,10 @@ nav ul {
     margin-right: 35px;
 }
 
+.nav-li:hover {
+    color: #ffcb06;
+}
+
 .mail-icon {
     margin-right: 25px;
 }
