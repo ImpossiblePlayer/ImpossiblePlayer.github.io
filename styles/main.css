@@ -195,7 +195,7 @@ nav ul {
 }
 
 .form h2 {
-    font: bold 24px "Courier New";
+    font: 24px "Courier New";
     color: #131313;
     margin-bottom: 50px;
 }
@@ -238,6 +238,10 @@ form span {
     margin-top: 30px;
 }
 
+.flights {
+    background: #222222;
+	padding: 85px 160px 85px 160px;
+}
 
 .form-button:hover {
     background: #000000;
@@ -252,14 +256,10 @@ form span {
 }
 
 .table div {
-    display: flex;
-    justify-content: space-between;
-    border-bottom: 1px solid #555555;
+	display: flex;
+	justify-content: space-between;
+	border-bottom: 1px solid #555555;
 	
-}
-.flights {
-    background: #222222;
-    padding: 85px 160px 85px 160px;
 }
 .table p {
 	padding: 20px 0px 20px 20px;
@@ -270,7 +270,7 @@ form span {
     background: #222222;
     display: flex;
     justify-content: space-between;
-    margin-bottom: 85px;
+	margin-bottom: 85px;
 }
 
 .table-description p {
