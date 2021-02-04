@@ -238,11 +238,6 @@ form span {
     margin-top: 30px;
 }
 
-.flights {
-    background: #222222;
-	padding: 85px 160px 85px 160px;
-}
-
 .form-button:hover {
     background: #000000;
 }
@@ -253,6 +248,11 @@ form span {
 
 .form-button span{
     color: #ffffff;
+}
+
+.flights {
+    background: #222222;
+	padding: 85px 160px 85px 160px;
 }
 
 .table div {
